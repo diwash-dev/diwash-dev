@@ -29,6 +29,3 @@ I enjoy turning ideas into real-world projects using modern technologies.
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (your link here)
-- GitHub: (your link here)

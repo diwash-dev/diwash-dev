@@ -6,7 +6,6 @@
 
 Building real-world projects and growing as a software engineer.
 
-[![GitHub](https://img.shields.io/badge/GitHub-diwash--dev-181717?style=for-the-badge&logo=github)](https://github.com/diwash-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diwash-tharu-98d/)
 
 </div>
